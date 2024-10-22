@@ -2,7 +2,6 @@ clear
 
 %Carrega dataset
 dataset = load('dataset.csv');
-load('cvp.mat');
 
 % %Adicionar Nível e Temperatura no csv
 % dataset = load('Vazao_L100-T29.csv');
